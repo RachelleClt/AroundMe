@@ -8,6 +8,10 @@ import { HomeComponent } from './home/home.component';
 import { ProfilComponent } from './profil/profil.component';
 import { LoginformComponent } from './loginform/loginform.component';
 import { RegisterformComponent } from './registerform/registerform.component';
+import { ActivitesComponent } from './activites/activites.component';
+
+import { ModifprofilComponent } from './modifprofil/modifprofil.component';
+import { RgpdComponent } from './rgpd/rgpd.component';
 
 
 
@@ -21,6 +25,14 @@ import { RegisterformComponent } from './registerform/registerform.component';
     LoginformComponent,
 
     RegisterformComponent,
+
+    ActivitesComponent,
+
+
+    ModifprofilComponent,
+
+
+    RgpdComponent,
 
 
 
